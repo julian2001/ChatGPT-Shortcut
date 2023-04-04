@@ -76,6 +76,11 @@ Open the "Shortcuts" app, find the downloaded "ChatGPT" shortcut, press and hold
   <img width="611" height="332" src="https://user-images.githubusercontent.com/7910769/229769582-5200601e-1485-476f-85a9-b9e1788a97cd.png">
 </p>
 
+## Video tutorial
+
+[![](https://markdown-videos.deta.dev/youtube/XH_RXfOJv9o)](https://youtu.be/XH_RXfOJv9o)
+
+
 ## License
 
 ```
