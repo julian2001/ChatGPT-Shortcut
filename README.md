@@ -24,7 +24,7 @@ Shortcut uses [OpenAI public API](https://platform.openai.com/docs/api-reference
 - API prices: https://openai.com/pricing.
 - ChatGPT API FAQ: https://help.openai.com/en/articles/7039783-chatgpt-api-faq.
 
-## Usage
+## Configuration
 
 #### 1. Get your OpenAI API Keys
 
