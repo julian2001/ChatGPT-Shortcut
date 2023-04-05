@@ -14,7 +14,7 @@ Shortcut uses [OpenAI public API](https://platform.openai.com/docs/api-reference
 - Ensure that the network can access the domain name https://api.openai.com.
 - Ensure that there is enough balance in the API account: https://platform.openai.com/account/usage.
 - Use Siri to start the shortcut: open Settings -> Siri & Search -> Siri Responses -> Check "Always Show Speech" to see if recognition is accurate. Ensure that Siri's language setting matches the language you are using.
-- For correct work, continuous conversations you need to turn on the "Settings" - Apple ID - iCloud - iCloud Drive function to use the save to TXT file function.
+- For correct work continuous conversations, you need to turn on the "Settings" -> Apple ID -> iCloud -> iCloud Drive function to use the save to TXT file function.
 
 ### Other related issues
 
