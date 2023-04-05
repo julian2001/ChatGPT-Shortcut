@@ -58,7 +58,7 @@ Tap Create new secret key, then tap the copy icon and tap OK to close the window
 #### 3. Download the ChatGPT shortcut
 
 <p align="center">
-  <img width="416" height="900" src="https://user-images.githubusercontent.com/7910769/229749237-d615a38c-e69a-46c1-9d19-4de93de218d6.PNG">
+  <img width="416" height="900" src="https://user-images.githubusercontent.com/7910769/230093483-cdfb9127-bf02-4814-b52d-c78edd1b6e8b.jpeg">
 </p>
 
 Open the [ChatGPT shortcut page](https://www.icloud.com/shortcuts/dde6e3551cec44b29fcefabc85e01abe) and tap Set Up Shortcut.
