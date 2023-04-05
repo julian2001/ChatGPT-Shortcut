@@ -24,6 +24,21 @@ Shortcut uses [OpenAI public API](https://platform.openai.com/docs/api-reference
 - API prices: https://openai.com/pricing.
 - ChatGPT API FAQ: https://help.openai.com/en/articles/7039783-chatgpt-api-faq.
 
+## Usage
+
+Start the "Shortcut" with Siri, just say "Hey, Siri, ChatGPT", and then you can start chatting with Siri. Now you have a very smart Siri 😆 Enjoy!
+
+If you don't like the name, you can rename the shortcut, change it to any name you like, and then you can chat with Siri just say "Hey, Siri, xxx", xxx is the new name you chose, it's better not to add special symbols to the name. It’s hard to read the symbols 😂, If Siri cannot match the name of the shortcut, it won’t work!
+
+Of course, you can run the ChatGPT shortcut directly without Siri, you just need to open the Shortcuts app and run ChatGPT. At this time, it is used in the form of a dialog box, and it will not be read out. You can add it to your Home Screen for quick access, see how to do it in my video tutorial.
+
+### Advanced usage
+This Shortcut supports iPhone, iPad and macOS, supports continuous conversations, supports quit chat, and new chat. The usage is as follows:
+
+- The default is to support continuous dialogue, which can record context and discuss issues continuously.
+- If you want to start a new chat, say "New chat" when it's our turn, Siri will start a new round of chat, which means that the previous context will be lost, and you can't continue chatting with the previous information.
+- If you want to quit ChatGPT to use the system's Siri, you can say "Quit chat" on your turn. Of course, you can also close Siri directly and open it again. But here it is more natural to provide the command to exit.
+
 ## Configuration
 
 #### 1. Get your OpenAI API Keys
